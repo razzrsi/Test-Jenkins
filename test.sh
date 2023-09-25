@@ -2,4 +2,4 @@
 
 date
 
-echo "done"
+echo "done done"
